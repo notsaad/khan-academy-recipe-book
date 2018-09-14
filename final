@@ -34,6 +34,45 @@ text-indent: 70px;
             <li>Serves: One Person</li>
         </ul>
         
+       <!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+        #quantity-one {
+text-indent: 20px;
+}
+ #quantity-two {
+text-indent: 15px;
+}
+ #water {
+text-indent: 70px;
+}
+li {
+    font-weight:bold;
+}
+        </style>
+    </head>
+    <body>
+       
+        <h1>Saad's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="one">Ramen Noodles</a></li>
+            <li><a href="two">Minute Rice</a></li>
+            <li><a href="three">Brownies</a></li>
+        </ol>
+        
+        <h2 id="one">Ramen Noodles</h2>
+        
+        <ul>
+            <li>Time: 2 Minutes</li>
+            <li>Serves: One Person</li>
+        </ul>
+        
         <table>
             <thead>
                 <tr>
@@ -51,10 +90,10 @@ text-indent: 70px;
             </tbody>
         </table>
         
-        <p><strong>Step 1:</strong> 
+        <p><strong>Step 1:</strong> Break the Ramen Noodles into four pieces and eat them raw. <br> <strong>Step 2:</strong> Drink the water on its own.
 </p>
         
-    <p><em>Source: <a href="https://www.ranker.com/g00/list/best-recipe-websites/chef-jen?i10c.encReferrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNhLw%3D%3D&i10c.ua=1&i10c.dv=14">Some recipes websites</a></em></p>
+    <p><em>Source: <a href="https://www.ranker.com/g00/list/best-recipe-websites/chef-jen?i10c.encReferrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNhLw%3D%3D&i10c.ua=1&i10c.dv=14">ranker.com</a></em></p>
     
     <h2 id="two">Minute Rice</h2>
         
@@ -80,10 +119,10 @@ text-indent: 70px;
             </tbody>
         </table>
         
-        <p><strong>Step 1:</strong> 
+        <p><strong>Step 1:</strong> Put the container of Minute Rice filled with water in the microwave for one minute. <br> <strong>Step 2:</strong> Take the Minute Rice out of the microwave and enjoy.
 </p>
         
-    <p><em>Source: <a href="https://www.foodnetwork.ca/">Some recipes websites</a></em></p>
+    <p><em>Source: <a href="https://www.foodnetwork.ca/">foodnetwork.com</a></em></p>
     
     <h2 id="three">Brownies</h2>
         
@@ -100,19 +139,19 @@ text-indent: 70px;
                 </tr>
             </thead>
             <tbody>
-             <td>A Packet of Ramen Noodles</td>
+             <td>Brownies</td>
              <td id="quantity-one">One</td>
              <tr>
-                 <td id="water">Water</td>
-                 <td id="quantity-two">250mL</td>
+                 <td>A Plate</td>
+                 <td id="quantity-two">One</td>
              </tr>
             </tbody>
         </table>
         
-        <p><strong>Step 1:</strong> 
+        <p><strong>Step 1:</strong> Take your brownies and put them in the plate. <br> <strong>Step 2:</strong> Eat it.
 </p>
         
-    <p><em>Source: <a href="https://www.allrecipes.com/">Some recipes websites</a></em></p>
+    <p><em>Source: <a href="https://www.allrecipes.com/">allrecipe.com</a></em></p>
     
     </body>
 </html>
